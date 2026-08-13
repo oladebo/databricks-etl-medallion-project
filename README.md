@@ -15,7 +15,7 @@ This project implements a modern data warehouse on Databricks using the Medallio
 
 
 
-
+![Image alt]()
 
 
 
