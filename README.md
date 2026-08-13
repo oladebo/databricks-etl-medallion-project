@@ -15,7 +15,7 @@ This project implements a modern data warehouse on Databricks using the Medallio
 
 
 
-![Image alt]()
+![Image alt](https://github.com/oladebo/databricks-etl-medallion-project/blob/56ac937f55491c772738b5012d18e8d2da5d4036/Screen%20Shot%202026-08-13%20at%2020.38.19%201.png)
 
 
 
