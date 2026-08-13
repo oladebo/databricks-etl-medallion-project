@@ -11,6 +11,16 @@ This project implements a modern data warehouse on Databricks using the Medallio
 
 ![image alt](https://github.com/oladebo/databricks/blob/7735fa0bd6cfdb1a05c40429034a8b9d67429f19/Screen%20Shot%202026-04-02%20at%2019.40.02.png)
 
+
+
+
+
+
+
+
+
+https://drive.google.com/file/d/1UI8U8iUvjVpod1Ivtbrgzt3TYlbgmobS/view?usp=drive_link
+
 The project follows the Medallion Architecture:
 
 🔹 Bronze Layer (Raw Data)
